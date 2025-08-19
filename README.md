@@ -3,4 +3,7 @@
   <li>
     Estado: En Construccion.
   </li>
+  <li>
+    Para ejecutar el sistema es necesario: *** npm install Tecnologias ***
+  </li>
 </ul>
