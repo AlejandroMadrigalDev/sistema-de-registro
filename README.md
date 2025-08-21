@@ -7,3 +7,4 @@
     Para ejecutar el sistema es necesario: *** npm install Tecnologias ***
   </li>
 </ul>
+<h2> Sistema de registro 2</h2>
